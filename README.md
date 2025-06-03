@@ -1,17 +1,17 @@
 👋 Hi, I’m @sailakshmi223
 👀 I’m interested in ...
 -Data Science and Machine Learning
+-Deep Learning
 -Big Data Analytics
 -Artificial Intelligence
 -Software Development
 -Open Source Projects
--r,c,java,pandas,numpy,eda
+--Data Visualization tools (Tableau, Power BI)
 🌱 I’m currently learning ...
 -front_end & back_end
 -Advanced Machine Learning techniques
--Deep Learning frameworks (TensorFlow, PyTorch)
--Data Visualization tools (Tableau, Power BI)
--Cloud Computing (AWS, Google Cloud)
+-Devops
+
 💞️ I’m looking to collaborate on ...
 -Data Science and Machine Learning projects
 -Open Source contributions
@@ -20,7 +20,7 @@
 📫 How to reach me ...
 -LinkedIn: https://www.linkedin.com/in/sai-lakshmi-r-61864624a
 -Email: rsailakshmi223@gmail.com
--Instagram: https://www.instagram.com/sailakshmi6991
+
 😄 Pronouns: ...
 She/Her
 ⚡ Fun fact: ...
